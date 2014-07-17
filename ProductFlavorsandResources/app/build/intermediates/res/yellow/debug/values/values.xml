@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/yellow/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="main_background_color">#FFFF4C</color>
+    <!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/yellow/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Gradle Product Flavors - Yellow</string>
+    <string name="main_text">This is the yellow product flavor</string>
+    <!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="product_flavor_text">This is the default text</string>
+    <string name="screen_orientation_text">This app is in portrait mode</string>
+    <string name="screen_size_text">This screen is smaller than 600dp</string>
+    <!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

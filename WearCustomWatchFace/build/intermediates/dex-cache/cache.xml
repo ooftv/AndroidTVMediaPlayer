@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/classes-a9980d0748bbd2d0728d3dbaabe9424cafd7109d.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/build/intermediates/pre-dexed/release/support-v4-19.1.0-1c770736c78a75d47b1fe5669f554ec7873bf20d.jar"
+        jar="/Users/PaulTR/Documents/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-52ab64bfb6cfc92c27000d48740cb20d6c67f56f.jar"
+        jar="/Users/PaulTR/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/classes-fbdd95fd32704a769451a650f5e50a7bbf2afcb8.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/classes-2b6c102ef299cb8a68a6f06b55204dc19ceb2a2e.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-c7e0138f4e97d9319923275877e6949eadfe78ee.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b37405b8097bfb6873434ac673092238d9deab52.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/wear/build/intermediates/pre-dexed/debug/classes-66b7dee87c9301fa02b85b0fef070b34bde2ee33.jar"
+        jar="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.google.android.support/wearable/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+
+</pre-dex-items>

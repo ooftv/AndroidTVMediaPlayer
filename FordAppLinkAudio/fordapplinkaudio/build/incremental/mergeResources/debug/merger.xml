@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Ford AppLink Audio
+                </string>
+                <string name="display_title" >Pauls Ford Demo
+                </string>
+                <string name="app_link_id" >345678
+                </string>
+                <string name="device_name" >SYNC
+                </string>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/build/res/rs/debug" />
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/src/debug/res" />
+    </dataSet>
+
+</merger>

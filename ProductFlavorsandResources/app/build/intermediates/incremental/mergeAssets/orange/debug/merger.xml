@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/GradleProductFlavors/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="orange" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/GradleProductFlavors/app/src/orange/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/GradleProductFlavors/app/src/debug/assets" />
+    </dataSet>
+    <dataSet config="orangeDebug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/GradleProductFlavors/app/src/orangeDebug/assets" />
+    </dataSet>
+
+</merger>

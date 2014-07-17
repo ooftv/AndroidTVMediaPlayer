@@ -1,0 +1,7 @@
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/street_view_panorama_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    class="com.google.android.gms.maps.StreetViewPanoramaFragment" />
+<!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/StreetView/streetview/src/main/res/layout/activity_main.xml -->

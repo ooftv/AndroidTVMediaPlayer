@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="one" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/one/assets" />
+    </dataSet>
+    <dataSet config="green" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/assets" />
+    </dataSet>
+    <dataSet config="greenOne" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/greenOne/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/debug/assets" />
+    </dataSet>
+    <dataSet config="greenOneDebug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/greenOneDebug/assets" />
+    </dataSet>
+
+</merger>

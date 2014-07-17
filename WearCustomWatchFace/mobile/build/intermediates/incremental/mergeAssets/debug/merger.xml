@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="5.0.77" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/5.0.77/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/src/debug/assets" />
+    </dataSet>
+
+</merger>

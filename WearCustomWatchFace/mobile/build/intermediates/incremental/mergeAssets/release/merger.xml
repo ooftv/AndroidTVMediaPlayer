@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="5.0.77" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/5.0.77/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/src/main/assets" />
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/build/intermediates/generated/assets/microapk/release" >
+            <file
+                name="wear-release.apk"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/build/intermediates/generated/assets/microapk/release/wear-release.apk" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/src/release/assets" />
+    </dataSet>
+
+</merger>

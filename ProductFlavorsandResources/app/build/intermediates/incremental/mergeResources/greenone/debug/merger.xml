@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="main_background_color" >@android:color/white
+                </color>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Gradle Product Flavors
+                </string>
+                <string name="screen_orientation_text" >This app is in portrait mode
+                </string>
+                <string name="number_flavor" >none
+                </string>
+                <string name="product_flavor_text" >This is the default text
+                </string>
+                <string name="screen_size_text" >This screen is smaller than 600dp
+                </string>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values-land/strings.xml"
+                qualifiers="land" >
+                <string name="screen_orientation_text" >This app is in landscape mode
+                </string>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values-sw600dp/strings.xml"
+                qualifiers="sw600dp-v13" >
+                <string name="screen_size_text" >This screen is at least 600dp
+                </string>
+            </file>
+        </source>
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/build/generated/res/rs/greenone/debug" />
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/build/generated/res/generated/greenone/debug" />
+    </dataSet>
+    <dataSet config="one" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/one/res" >
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/one/res/values/strings.xml"
+                qualifiers="" >
+                <string name="number_flavor" >This number flavor is one
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="green" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/drawable-xxxhdpi/ic_launcher.png"
+                qualifiers="xxxhdpi-v4"
+                type="drawable" />
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/values/colors.xml"
+                qualifiers="" >
+                <color name="main_background_color" >#99CC00
+                </color>
+            </file>
+            <file
+                path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Gradle Product Flavors - Green
+                </string>
+                <string name="product_flavor_text" >This is the green product flavor
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="greenOne" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/greenOne/res" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/debug/res" />
+    </dataSet>
+    <dataSet config="greenOneDebug" >
+        <source path="/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/ProductFlavorsandResources/app/src/greenOneDebug/res" />
+    </dataSet>
+
+</merger>

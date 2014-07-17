@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="com.ptrprograms.wearcustomwatchface">
+    <versionCode>1</versionCode>
+    <versionName>1.0</versionName>
+    <path>wear-release.apk</path>
+</wearableApp><!-- From: file:/Users/PaulTR/Documents/Pauls/AndroidDemoProjects/WearCustomWatchFace/mobile/build/generated/res/microapk/release/xml/android_wear_micro_apk.xml -->

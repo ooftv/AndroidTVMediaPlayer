@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="com.ptrprograms.stayawake">
+    <versionCode>92</versionCode>
+    <versionName>1.2.10</versionName>
+    <path>wear-release.apk</path>
+</wearableApp>
