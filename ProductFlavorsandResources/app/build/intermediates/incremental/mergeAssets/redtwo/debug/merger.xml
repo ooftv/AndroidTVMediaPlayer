@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="two" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/two/assets" />
+    </dataSet>
+    <dataSet config="red" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/red/assets" />
+    </dataSet>
+    <dataSet config="redTwo" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/redTwo/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/debug/assets" />
+    </dataSet>
+    <dataSet config="redTwoDebug" >
+        <source path="/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/redTwoDebug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="main_background_color">#99CC00</color>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Gradle Product Flavors - Green</string>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/two/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="number_flavor">This number flavor is two</string>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/green/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="product_flavor_text">This is the green product flavor</string>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="screen_orientation_text">This app is in portrait mode</string>
+    <string name="screen_size_text">This screen is smaller than 600dp</string>
+    <!-- From: file:/Users/paulruiz/Documents/AndroidDemoProjects/ProductFlavorsandResources/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

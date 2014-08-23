@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/pre-dexed/debug/picasso-2.3.3-64f9383390e9469e9b0d83737fb98258ce565ce7.jar"
+        jar="/Users/paulruiz/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc"/>
+    <item
+        dex="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ffb7ce831d051c52a4b4f43b6fb6739c277bb7d2.jar"
+        jar="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/pre-dexed/debug/classes-3970cc042f8012e3ee28af7972a75343120deed7.jar"
+        jar="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/pre-dexed/debug/classes-d1da8f8890b91789934fe62eab1a773775171e3c.jar"
+        jar="/Users/paulruiz/Documents/AndroidDemoProjects/IconColorization/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>
