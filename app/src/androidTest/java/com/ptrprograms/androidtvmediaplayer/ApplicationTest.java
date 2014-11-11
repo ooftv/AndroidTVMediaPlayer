@@ -1,4 +1,4 @@
-package com.ptrprograms.androidtvmediaplayer;
+package tv.outoffocus.ooftv;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

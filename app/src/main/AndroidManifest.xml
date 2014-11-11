@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ptrprograms.androidtvmediaplayer" >
+    package="tv.outoffocus.ooftv"
+        android:versionCode="3"
+        android:versionName="1.1">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-feature
@@ -9,13 +11,13 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/ooftvicon512x512"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
             android:name=".Activity.MainActivity"
             android:label="@string/app_name"
-            android:logo="@drawable/giraffes"
+            android:logo="@drawable/ooftvlogo"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,9 +30,7 @@
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
         <activity android:name=".Activity.DetailsActivity" />
 
-        <activity
-            android:name=".Bonus.SlothActivity"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
 
     </application>
 

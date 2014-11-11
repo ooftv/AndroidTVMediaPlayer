@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidTV Media Player Demo</string>
-    <string name="browse_title"><![CDATA[Demo by Paul Trebilcox-Ruiz]]></string>
+    <string name="app_name">ANDROID TV MEDIA PLAYER</string>
+    <string name="browse_title"><![CDATA[ANDROID TV MEDIA]]></string>
     <string name="related_movies">Related Videos</string>
     <string name="ok">OK</string>
     <string name="pause">Pause</string>
@@ -12,8 +12,8 @@
     <string name="play_pause_description">Play Pause Button</string>
     <string name="loading">Loading…</string>
     <string name="sloth">We want the sloth!</string>
-    <string name="watch">Watch Trailer</string>
-    <string name="watch_subtext">Free</string>
+    <string name="watch">Play</string>
+    <!--<string name="watch_subtext">Free</string>-->
     <string name="video_error_media_load_timeout">Media loading timed out</string>
     <string name="video_error_server_unaccessible">Media server was not reachable</string>
     <string name="oops">Oops</string>
